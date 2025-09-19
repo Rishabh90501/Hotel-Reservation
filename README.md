@@ -1,4 +1,4 @@
-# 🏨 Hotel Reservation Analysis
+<h1 align="center">🏨 Hotel Reservation Analysis</h1>
 
 ## 📊 Project Overview
 
@@ -103,7 +103,7 @@ The notebook includes comprehensive visualizations covering:
 
 ## 📝 License
 
-This project is open source and available under the [GNU GENERAL PUBLIC LICENSE](LICENSE).
+This project is open source and available under the [GPL 3.0 LICENSE](LICENSE).
 
 ## 🤝 Contributing
 
