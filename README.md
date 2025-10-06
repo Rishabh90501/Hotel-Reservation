@@ -48,24 +48,24 @@ import seaborn as sns
 ```
 Hotel-Reservation/
 │
-├── Hotel Reservation Report.ipynb      # Main Report NoteBook
-├── Hotel Reservation Cancellation ML.ipynb         # Cancellation Prediction ML NoteBook
-├── Hotel Reservation EDA.ipynb         # Main Analysis NoteBook
-├── LICENSE                             # General Github License
-├── README.md                           # Project documentation
-└── Data                                # Dataset files
-    ├── Raw Data                        # Raw / Unfiltered Dataset files
-    │   ├── Hotel Reservations.csv      # Old Hotel Reseracation Data
-    │   └── Hotel booking(in).csv       # Updated Hotel Reservation Data
-    ├── clean_data.csv                  # clean_Dataset
-    └── New Data                        # New Dataset folders consist of Fraction of the original clean data into multiple fields
-        ├── booking_party_data.csv      # Consist of Individual booking Party / guest data 
-        ├── cancellation_data.csv       # Consist of Booking Cancellation data 
-        ├── date_time_data.csv          # Consist of Date related field data 
-        ├── fact_bookings.csv           # Consist of Every Booking related data 
-        ├── guest_data.csv              # Consist of Overall Guest data 
-        ├── hotel_data.csv              # Consist of Hotel data 
-        └── room_data.csv               # Consist of Individual Room data 
+├── Hotel Reservation Report.ipynb                  # Main Report NoteBook
+├── Hotel Reservation Cancelation ML.ipynb          # Cancellation Prediction ML NoteBook
+├── Hotel Reservation EDA.ipynb                     # Main Analysis NoteBook
+├── LICENSE                                         # General Github License
+├── README.md                                       # Project documentation
+└── Data                                            # Dataset files
+    ├── Raw Data                                    # Raw / Unfiltered Dataset files
+    │   ├── Hotel Reservations.csv                  # Old Hotel Reseracation Data
+    │   └── Hotel booking(in).csv                   # Updated Hotel Reservation Data
+    ├── clean_data.csv                              # clean_Dataset
+    └── New Data                                    # New Dataset folders consist of Fraction of the original clean data into multiple fields
+        ├── booking_party_data.csv                  # Consist of Individual booking Party / guest data 
+        ├── cancellation_data.csv                   # Consist of Booking Cancellation data 
+        ├── date_time_data.csv                      # Consist of Date related field data 
+        ├── fact_bookings.csv                       # Consist of Every Booking related data 
+        ├── guest_data.csv                          # Consist of Overall Guest data 
+        ├── hotel_data.csv                          # Consist of Hotel data 
+        └── room_data.csv                           # Consist of Individual Room data 
 ```
 
 ## 🚀 Getting Started
