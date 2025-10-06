@@ -49,6 +49,7 @@ import seaborn as sns
 Hotel-Reservation/
 │
 ├── Hotel Reservation Report.ipynb      # Main Report NoteBook
+├── Hotel Reservation Cancellation ML.ipynb         # Cancellation Prediction ML NoteBook
 ├── Hotel Reservation EDA.ipynb         # Main Analysis NoteBook
 ├── LICENSE                             # General Github License
 ├── README.md                           # Project documentation
